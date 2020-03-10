@@ -5,7 +5,7 @@
   "background_color": "#2196f3",
   "display": "standalone",
   "Scope": "/",
-  "start_url": "http://localhost:5500/public_html/#/fav-movies",
+  "start_url": "https://laureano-clausi.github.io/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
